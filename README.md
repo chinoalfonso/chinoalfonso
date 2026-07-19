@@ -1,1 +1,2 @@
-<h1 style="text-aling:center;"> Soy Juan Alfonso Echevarria Castro. </h1>
+<h1 style="text-aling:center;"> Hi Juan Alfonso Echevarria Castro. </h1>
+<h3>El Chino </h3>
